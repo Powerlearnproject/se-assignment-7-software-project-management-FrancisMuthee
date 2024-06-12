@@ -1,0 +1,59 @@
+Software project management
+Project managent is laying out the execution plan that will foresee the completion of a project.
+It is important as it ensure linearity in delivery and knowldge of next steps incase in dilemma.
+
+Project life cycle
+1.Initiating the project, Here you can up with HMWs statement
+2.Planning - Incase of what is needed, it should be outlined here.
+3.Executing and Monitoring=- When finished, with planning, you execute and monitor if all requirement are satisfied.
+4.Closing- Relevant as nothing else to do and all worked to plan.
+
+Project planning
+Start by design thinking;
+1.Empathise
+2.Define a problem
+3.ideate inorder to execute
+4.Prototype-This involves releasing to the market
+5Test
+
+Risk management
+These can easily be confused with constraints. However, these aren’t boundaries you need to be aware of. Rather, they’re unexpected events or threats that could affect the people, processes, technology, and resources involved in a project. These have the potential of delaying a project’s completion or even derailing it entirely. 
+
+Resource management
+Here, you need everything in check, only this can derail you back if not addressed appropriately.
+
+Quality management
+Quality management in software projects is a multifaceted discipline that involves preventing, detecting, and addressing defects throughout the software development lifecycle. By implementing best practices and adhering to established standards, organizations can ensure that their software products are reliable, secure, and meet customer expectations, ultimately leading to higher customer satisfaction and business success.
+Requirements Management:
+
+Clearly defining and managing requirements to ensure they are understood and agreed upon by all stakeholders.
+Code Reviews and Inspections:
+
+Systematic examination of source code by developers other than the author to find and fix defects early.
+Unit Testing:
+
+Writing tests for individual units or components of the software to ensure they function correctly in isolation.
+Integration Testing:
+
+Testing the interactions between integrated units to identify issues with interfaces and interaction points.
+System Testing:
+
+Testing the entire system as a whole to ensure it meets the specified requirements.
+User Acceptance Testing (UAT):
+
+Validating the software with the end-users to ensure it meets their needs and expectations.
+Continuous Integration/Continuous Deployment (CI/CD):
+
+Automating the integration and deployment processes to detect defects early and deliver updates quickly.
+
+Project monitoring and control
+Whether the goal is satisfied all not. 
+eg; If the sales reached the set ones
+If the revenues covered the expenses.
+The rate of profits.
+
+Community management
+Here you get insights before production which is timekly and efficient.
+
+Project closure
+Protyping and testing. If everything works, then the project is sealed. The project closure is important as it is the final satge of profuction
